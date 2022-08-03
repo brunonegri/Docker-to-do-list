@@ -1,4 +1,4 @@
-FROM node:14-alpine
+FROM node:14
 WORKDIR /
 EXPOSE 3000
 
@@ -8,4 +8,4 @@ COPY . .
 
 ENTRYPOINT [ "npm" ]
 
-CMD ['start']
+CMD ["start"]

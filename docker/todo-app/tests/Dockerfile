@@ -6,4 +6,4 @@ COPY . .
 
 ENTRYPOINT [ "npm" ]
 
-CMD ['test']
+CMD ["test"]
