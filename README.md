@@ -2,7 +2,7 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-> Este projeto mostra uma tabela com dados dos planetas de starwars sendo possivel utilizar filtros.
+> Projeto simples realizado para a pratica de comandos do Docker.
 
 ## 💻 Detalhes do Projeto
 
